@@ -24,6 +24,9 @@ const Certificate = new mongoose.Schema(
         type: URL,
         //required: [true, "Please enter the certificate url"]
     },
+    status:{
+        type:String,
+    },
    timestamps: true 
 }
 );

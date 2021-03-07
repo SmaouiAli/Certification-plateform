@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = ({ props }) => (
   <div>
-    Webpack HMR Example
+    Webpac HMR Example
   </div>
 )
 
